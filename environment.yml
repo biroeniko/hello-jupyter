@@ -1,0 +1,10 @@
+name: py37
+channels:
+  - defaults
+dependencies:
+  - python>=3.7
+  - numpy
+  - matplotlib
+  - scipy
+  - jupyter
+  - pandas
